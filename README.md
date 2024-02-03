@@ -1,2 +1,4 @@
-Navyath Sabbani 
-This is my first Git Hub respiratory
+#Navyath Sabbani 
+This is my first Git Hub Reposiotry
+Author - Navyath
+
